@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anej and I'm a student.</p>
+<p align="left">My name is Anej and I'm a student at Vegova.</p>
 
 ###
 
